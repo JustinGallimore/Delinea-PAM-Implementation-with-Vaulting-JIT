@@ -1,3 +1,4 @@
+<h2><a href="https://www.loom.com/share/bbca1ec3803e4b6599bd086ad354bc5b">VIDEO OVERVIEW OF THIS LAB</a></h2>
 # Delinea PAM Implementation with Vaulting + JIT
 
 ![Windows Server](https://img.shields.io/badge/Windows_Server_2022-0078D4?style=for-the-badge&logo=windows&logoColor=white)
